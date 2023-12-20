@@ -5,5 +5,5 @@
 
 
 .btns{
-    @apply h-6 w-8 px-2 py-1 hover:bg-[#BB9CC0] text-[#EAECCC] font-bold
+    @apply h-10  w-24 px-2 py-1 hover:bg-[#BB9CC0] text-[#EAECCC] font-bold text-center rounded-md duration-500 hover:text-black
 }

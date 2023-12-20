@@ -17,7 +17,7 @@ const Navbar = () => {
                 }
             </span>
 
-            <div className={` bg-[#607274] px-6 py-5 md:static absolute md:flex justify-between items-center z-10 ${Open ? "top-6" : "-top-60"} duration-500 sm:rounded-md `}>
+            <div className={` bg-[#142850] px-6 py-5 md:static absolute md:flex justify-between items-center z-10 ${Open ? "top-6" : "-top-60"} duration-500 rounded-md `}>
                 <div>
                     <span className='text-2xl font-bold text-[#e0d9e0] '>Mobile Door</span>
                 </div>
