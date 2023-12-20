@@ -17,13 +17,13 @@ const Navbar = () => {
                 }
             </span>
 
-            <div className={` bg-[#607274] px-6 py-5 md:static absolute md:flex justify-center items-center z-10 ${Open ? "top-6" : "-top-60"} `}>
+            <div className={` bg-[#607274] px-6 py-5 md:static absolute md:flex justify-between items-center z-10 ${Open ? "top-6" : "-top-60"} duration-500 sm:rounded-md `}>
                 <div>
-
+                    <span className='text-2xl font-bold text-[#e0d9e0] '>Mobile Door</span>
                 </div>
                 <ul className='md:flex gap-4 text-[#EAECCC]'>
-                    <li className=' hover:bg-purple-700 hover:text-[#EAECCC]'> <Link to={"/"}>Home</Link> </li>
-                    <li className=' hover:bg-purple-700 hover:text-[#EAECCC]'> <Link to={"/"}>About</Link> </li>
+                    <li className=' btns'> <Link to={"/"}>Home</Link> </li>
+                    <li className=' btns'> <Link to={"/"}>About</Link> </li>
                 </ul>
             </div>
         </nav>
