@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+.btns{
+    @apply h-6 w-8 px-2 py-1 
+}
