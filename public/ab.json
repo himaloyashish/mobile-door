@@ -1,0 +1,101 @@
+[
+    {
+      "name": "iPhone 12",
+      "type": "Smartphone",
+      "price": 999.99,
+      "processor": "A14 Bionic",
+      "memory": "128GB",
+      "os": "iOS 14",
+      "imageUrl": "https://example.com/iphone12.jpg"
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "type": "Smartphone",
+      "price": 1299.99,
+      "processor": "A14 Bionic",
+      "memory": "128GB",
+      "os": "iOS 14",
+      "imageUrl": "https://example.com/iphone12.jpg"
+    },
+    {
+      "name": "iPhone 14 Pro",
+      "type": "Smartphone",
+      "price": 1199.99,
+      "processor": "A14 Bionic",
+      "memory": "128GB",
+      "os": "iOS 14",
+      "imageUrl": "https://example.com/iphone12.jpg"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "type": "Smartphone",
+      "price":1099.99,
+      "processor": "Exynos 2100",
+      "memory": "256GB",
+      "os": "Android 11",
+      "imageUrl": "https://example.com/galaxys21.jpg"
+    },
+    {
+      "name": "Samsung Galaxy M15",
+      "type": "Smartphone",
+      "price": 899.99,
+      "processor": "Exynos 2100",
+      "memory": "256GB",
+      "os": "Android 11",
+      "imageUrl": "https://example.com/galaxys21.jpg"
+    },
+    {
+      "name": "Google Pixel 5",
+      "type": "Smartphone",
+      "price": 699.99,
+      "processor": "Snapdragon 765G",
+      "memory": "128GB",
+      "os": "Android 11",
+      "imageUrl": "https://example.com/pixel5.jpg"
+    },
+    {
+      "name": "Google Pixel Pro 5",
+      "type": "Smartphone",
+      "price": 699.99,
+      "processor": "Snapdragon 765G",
+      "memory": "128GB",
+      "os": "Android 11",
+      "imageUrl": "https://example.com/pixel5.jpg"
+    },
+    {
+      "name": "Google Pixel 6",
+      "type": "Smartphone",
+      "price": 699.99,
+      "processor": "Snapdragon 765G",
+      "memory": "128GB",
+      "os": "Android 11",
+      "imageUrl": "https://example.com/pixel5.jpg"
+    },
+    {
+      "name": "iPad Pro",
+      "type": "Tablet",
+      "price": 1099.99,
+      "processor": "M1",
+      "memory": "256GB",
+      "os": "iPadOS 14",
+      "imageUrl": "https://example.com/ipadpro.jpg"
+    },
+    {
+      "name": "iPad Pro Max",
+      "type": "Tablet",
+      "price": 1199.99,
+      "processor": "M1",
+      "memory": "256GB",
+      "os": "iPadOS 14",
+      "imageUrl": "https://example.com/ipadpro.jpg"
+    },
+    {
+      "name": "iPad Pro Max",
+      "type": "Tablet",
+      "price": 1299.99,
+      "processor": "M1",
+      "memory": "256GB",
+      "os": "iPadOS 14",
+      "imageUrl": "https://example.com/ipadpro.jpg"
+    }
+  ]
