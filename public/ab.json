@@ -6,7 +6,7 @@
       "processor": "A14 Bionic",
       "memory": "128GB",
       "os": "iOS 14",
-      "imageUrl": "https://example.com/iphone12.jpg"
+      "imageUrl": "https://img.freepik.com/free-vector/realistic-smartphone-different-perspectives_52683-52491.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais"
     },
     {
       "name": "iPhone 13 Pro Max",
@@ -15,7 +15,7 @@
       "processor": "A14 Bionic",
       "memory": "128GB",
       "os": "iOS 14",
-      "imageUrl": "https://example.com/iphone12.jpg"
+      "imageUrl": "https://img.freepik.com/free-vector/flat-design-phone-different-perspectives_52683-52676.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais"
     },
     {
       "name": "iPhone 14 Pro",
@@ -24,7 +24,7 @@
       "processor": "A14 Bionic",
       "memory": "128GB",
       "os": "iOS 14",
-      "imageUrl": "https://example.com/iphone12.jpg"
+      "imageUrl": "https://img.freepik.com/free-photo/phone-14-right-side-arabic-themed-background_187299-35435.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais"
     },
     {
       "name": "Samsung Galaxy S21",
@@ -33,7 +33,7 @@
       "processor": "Exynos 2100",
       "memory": "256GB",
       "os": "Android 11",
-      "imageUrl": "https://example.com/galaxys21.jpg"
+      "imageUrl": "https://img.freepik.com/free-psd/smartphone-mockup_1310-812.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais"
     },
     {
       "name": "Samsung Galaxy M15",
@@ -42,7 +42,7 @@
       "processor": "Exynos 2100",
       "memory": "256GB",
       "os": "Android 11",
-      "imageUrl": "https://example.com/galaxys21.jpg"
+      "imageUrl": "https://img.freepik.com/free-vector/realistic-phones-different-views_52683-28436.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais"
     },
     {
       "name": "Google Pixel 5",
@@ -51,7 +51,7 @@
       "processor": "Snapdragon 765G",
       "memory": "128GB",
       "os": "Android 11",
-      "imageUrl": "https://example.com/pixel5.jpg"
+      "imageUrl": "https://img.freepik.com/free-psd/smartphone-skin-mock-up-isolated_1310-1582.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais"
     },
     {
       "name": "Google Pixel Pro 5",
@@ -60,7 +60,7 @@
       "processor": "Snapdragon 765G",
       "memory": "128GB",
       "os": "Android 11",
-      "imageUrl": "https://example.com/pixel5.jpg"
+      "imageUrl": "https://img.freepik.com/free-vector/realistic-phones-different-views_52683-28436.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais"
     },
     {
       "name": "Google Pixel 6",
@@ -69,7 +69,7 @@
       "processor": "Snapdragon 765G",
       "memory": "128GB",
       "os": "Android 11",
-      "imageUrl": "https://example.com/pixel5.jpg"
+      "imageUrl": "https://images.unsplash.com/photo-1659080382102-176e51b4f5f4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGdvb2dsZSUyMHBpeGVsJTIwNiUyMHByb3xlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       "name": "iPad Pro",
@@ -78,7 +78,7 @@
       "processor": "M1",
       "memory": "256GB",
       "os": "iPadOS 14",
-      "imageUrl": "https://example.com/ipadpro.jpg"
+      "imageUrl": "https://img.freepik.com/free-vector/digital-tablet-mockup-brown-table_53876-118309.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais"
     },
     {
       "name": "iPad Pro Max",
@@ -87,7 +87,7 @@
       "processor": "M1",
       "memory": "256GB",
       "os": "iPadOS 14",
-      "imageUrl": "https://example.com/ipadpro.jpg"
+      "imageUrl": "https://img.freepik.com/free-psd/tablet-mockup-top-angle-view_7838-365.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais"
     },
     {
       "name": "iPad Pro Max",
@@ -96,6 +96,6 @@
       "processor": "M1",
       "memory": "256GB",
       "os": "iPadOS 14",
-      "imageUrl": "https://example.com/ipadpro.jpg"
+      "imageUrl": "https://img.freepik.com/free-photo/isolated-set-tablet-view-front-back_125540-2238.jpg?size=626&ext=jpg&uid=R124603556&ga=GA1.1.152808567.1700245140&semt=ais"
     }
   ]
