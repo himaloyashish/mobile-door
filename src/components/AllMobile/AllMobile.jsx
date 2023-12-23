@@ -29,6 +29,7 @@ const AllMobile = () => {
                 <input onChange={(e) => setChange(e.target.value)} className='input ' type="search" name="search" placeholder='Search by Toy name' id="" />
                 <button onClick={handleSearch} className='btn'>Search</button>
             </div>
+
             
 
         </div>
