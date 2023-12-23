@@ -1,9 +1,10 @@
 import React from 'react';
+import AllMobile from '../../components/AllMobile/AllMobile';
 
 const Home = () => {
     return (
         <div>
-            <p className='text-3xl text-blue-300'>This home </p>
+            <AllMobile></AllMobile>
         </div>
     );
 };
