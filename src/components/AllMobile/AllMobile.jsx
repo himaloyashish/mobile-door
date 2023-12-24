@@ -26,13 +26,13 @@ const AllMobile = () => {
     }
 
     return (
-        <div>
-            <div className='text-center py-4'>
-                <input onChange={(e) => setChange(e.target.value)} className='input ' type="search" name="search" placeholder='Search' id="" />
-                <button onClick={handleSearch} className='btn'>Search</button>
+        <div className='mx-5 '>
+            <div className='text-center py-4 '>
+                <input onChange={(e) => setChange(e.target.value)} className='p-2 border-blue-400' type="search" name="search" placeholder='Search' id="" />
+                <button onClick={handleSearch} className='btns ml-2 border border-blue-400 '>Search</button>
             </div>
 
-            <div className='grid md:grid-cols-3 lg:grid-cols-4 gap-4'>
+            <div className='grid md:grid-cols-3 lg:grid-cols-4 gap-4 '>
                 {
                     mobiles.map( mobile=> <MobileCard key={mobile.id} mobile={mobile}> </MobileCard> )
                 }

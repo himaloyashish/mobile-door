@@ -3,7 +3,7 @@ import AllMobile from '../../components/AllMobile/AllMobile';
 
 const Home = () => {
     return (
-        <div>
+        <div className='bg-[#94aaba] pb-4'>
             <AllMobile></AllMobile>
         </div>
     );
