@@ -26,7 +26,7 @@ const AllMobile = () => {
     return (
         <div>
             <div className='text-center py-4'>
-                <input onChange={(e) => setChange(e.target.value)} className='input ' type="search" name="search" placeholder='Search by Toy name' id="" />
+                <input onChange={(e) => setChange(e.target.value)} className='input ' type="search" name="search" placeholder='Search' id="" />
                 <button onClick={handleSearch} className='btn'>Search</button>
             </div>
 
