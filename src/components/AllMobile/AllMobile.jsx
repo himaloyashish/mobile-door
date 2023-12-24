@@ -32,7 +32,7 @@ const AllMobile = () => {
                 <button onClick={handleSearch} className='btn'>Search</button>
             </div>
 
-            <div>
+            <div className='grid md:grid-cols-3 lg:grid-cols-4 gap-4'>
                 {
                     mobiles.map( mobile=> <MobileCard key={mobile.id} mobile={mobile}> </MobileCard> )
                 }
