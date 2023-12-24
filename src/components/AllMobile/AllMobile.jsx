@@ -1,26 +1,28 @@
 import React, { useEffect, useState } from 'react';
+import MobileCard from '../mobilecard/MobileCard';
 
 
 const AllMobile = () => {
 
     const [change, setChange] = useState()
 
-    const [myToys, setMyToys] = useState([])
-    console.log(myToys)
+    const [mobiles, setMobile] = useState([])
+    console.log(mobiles)
 
     const user = ''
 
     useEffect(() => {
         fetch(`http://localhost:5000/allMobile?limit=${11}`)
             .then(res => res.json())
-            .then(data => setMyToys(data))
-    }, [user])
+            .then(data => setMobile(data))
+        
+    }, [])
     // console.log(myToys)
 
     const handleSearch = () => {
-        fetch(`http://localhost:5000/mobil/${change}`)
+        fetch(`http://localhost:5000/mobile/${change}`)
             .then(res => res.json())
-            .then(data => setMyToys(data))
+            .then(data => setMobile(data))
     }
 
     return (
@@ -30,7 +32,11 @@ const AllMobile = () => {
                 <button onClick={handleSearch} className='btn'>Search</button>
             </div>
 
-            
+            <div>
+                {
+                    mobiles.map( mobile=> <MobileCard key={mobile.id} mobile={mobile}> </MobileCard> )
+                }
+            </div>
 
         </div>
     );
